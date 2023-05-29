@@ -1,2 +1,2 @@
-web: gradle runFatJar "build/libs/users.jar"
+web: java -jar build/libs/users.jar
 
