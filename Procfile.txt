@@ -1,1 +1,1 @@
-web: ./build/install/ktor-users/bin/ktor-users
+web: java -jar build/libs/ktor-users.jar
