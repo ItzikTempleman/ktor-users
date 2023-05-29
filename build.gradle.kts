@@ -23,6 +23,9 @@ repositories {
 
 tasks {
     create("stage").dependsOn("installDist")
+    wrapper{
+        gradleVersion = "7.2"
+    }
 }
 
 dependencies {
