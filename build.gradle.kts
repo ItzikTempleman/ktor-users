@@ -8,6 +8,7 @@ plugins {
     id("org.jetbrains.kotlin.plugin.serialization") version "1.8.21"
 }
 
+
 group = "com.itzik"
 version = "0.0.1"
 application {
