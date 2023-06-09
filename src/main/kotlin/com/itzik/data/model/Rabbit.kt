@@ -1,7 +1,8 @@
 package com.itzik.data.model
 
 
-import com.itzik.routes.Constants.BASE_URL
+
+import com.itzik.utils.Constants.BASE_URL
 import kotlinx.serialization.Serializable
 
 @Serializable
